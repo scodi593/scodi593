@@ -30,7 +30,3 @@ I'm exploring advanced DSA concepts, refining my backend skills in Python, and w
 - HackerRank: [Your HackerRank Profile](#)
 
 Thanks for visiting my profile! 🚀 Let's collaborate and create something amazing together!
-
---- 
-
-Feel free to update links and customize it with more personal touches! This structure emphasizes both your skills and achievements, creating a well-rounded impression.
