@@ -11,9 +11,10 @@ I'm a passionate and driven software developer with a strong focus on building i
 
 ## 🏆 Highlights
 
-- **Finalist** in **Hackamol 5.0** at NIT Jamshedpur and **IIT Hyderabad's AIESEC hackathon**, showcasing my ability to deliver innovative solutions under pressure.
-- Developed **UniMate**, a smart chatbot for college inquiries, and **TrackSafe**, a GPS-based path monitoring system, blending **AI** and **user-centric design** for practical solutions.
-- Proficient in **machine learning** with projects involving CNNs, LSTMs, and **OpenCV-based object detection**.
+🔹 Finalist in **Hackamol 5.0 (NIT Jamshedpur)**, **IIT Hyderabad's AIESEC hackathon**, and **HackIITK (IIT Kanpur)**, showcasing my ability to deliver innovative solutions under pressure.
+🤖 Developed UniMate – A smart chatbot for college inquiries, enhancing student interaction with AI-driven responses.
+🛰️ Built TrackSafe – A GPS-based path monitoring system using AI for real-time route deviation alerts.
+📊 Proficient in Machine Learning – Worked on CNNs, LSTMs, and OpenCV-based object detection to solve real-world problems.
 
 ## 🛠️ My Skill Set
 - **Programming Languages**: Java, Python, C, JavaScript, TypeScript
